@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.mvc-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.authorization-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.json.bind-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/weld-osgi-bundle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.interceptor-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.security.enterprise-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.validation-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.jakartaee-api-8.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/webservices-osgi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.batch-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.jakartaee-api-9.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.mail-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.enterprise.cdi-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.jakartaee-api-10.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.servlet.jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.websocket-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/javaee-api-7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.resource-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.xml.bind-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.ejb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.transaction-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.security.enterprise.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.jakartaee-web-api-10.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.enterprise.lang-model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.persistence-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.ws.rs-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.servlet.jsp.jstl-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.annotation-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.activation-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.enterprise.concurrent-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.enterprise.concurrent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.jakartaee-web-api-8.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.authentication-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.jms-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.faces.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jaxb-osgi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.websocket-client-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.inject-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/lib/jakarta.json-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

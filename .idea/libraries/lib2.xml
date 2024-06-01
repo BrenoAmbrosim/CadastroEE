@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/gfdeploy/CadastroEE/lib/javaee-api-7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/gfdeploy/CadastroEE/lib/jakarta.jakartaee-web-api-8.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/gfdeploy/CadastroEE/lib/jakarta.jakartaee-api-9.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/gfdeploy/CadastroEE/lib/jakarta.jakartaee-api-10.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/gfdeploy/CadastroEE/lib/jakarta.jakartaee-web-api-10.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/gfdeploy/CadastroEE/lib/jakarta.jakartaee-api-8.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
